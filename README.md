@@ -10,6 +10,8 @@ Click the pencil in the top right of this box. (Assuming on Windows Computer.)
 
 ### Week 2 | Lectures
 
+New Text
+
 ### Week 3 | Lectures
 
 ### Week 4 | Lectures
